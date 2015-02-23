@@ -1,0 +1,6 @@
+framework module SwiftCocoapodsCustomFont {
+  umbrella header "Pods-SwiftCocoapodsCustomFontDemo-SwiftCocoapodsCustomFont-umbrella.h"
+
+  export *
+  module * { export * }
+}

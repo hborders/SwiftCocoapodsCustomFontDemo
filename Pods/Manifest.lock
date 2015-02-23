@@ -1,0 +1,14 @@
+PODS:
+  - SwiftCocoapodsCustomFont (0.0.1)
+
+DEPENDENCIES:
+  - SwiftCocoapodsCustomFont (from `./`)
+
+EXTERNAL SOURCES:
+  SwiftCocoapodsCustomFont:
+    :path: ./
+
+SPEC CHECKSUMS:
+  SwiftCocoapodsCustomFont: d62f47fe04e415f685cc6fbaad6956d84c57c4a8
+
+COCOAPODS: 0.36.0.beta.2

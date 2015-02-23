@@ -1,0 +1,21 @@
+{
+  "name": "SwiftCocoapodsCustomFont",
+  "version": "0.0.1",
+  "license": {
+    "type": "Apache License, Version 2.0",
+    "file": "README.md"
+  },
+  "summary": "View Library",
+  "homepage": "http://www.jivesoftware.com",
+  "authors": {
+    "Heath Borders": "heath.borders@jivesoftware.com"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source_files": "Source/*.{swift}",
+  "resources": "Source/*.otf",
+  "frameworks": "CoreText",
+  "requires_arc": true
+}
